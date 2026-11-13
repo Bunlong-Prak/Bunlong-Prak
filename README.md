@@ -3,7 +3,7 @@
 Email Me 👉 ✉️ **prakbunlong53@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bunlong-Prak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 I passionate about building elegant solutions to complex problems. I thrive at the intersection of logic and creativity and I like random things.<br>The existential dread in Kafka and Dostoevsky.<br>Why OK Computer is a perfect album.<br>The absurd beauty of Albert Camus's philosophy.<br>My personal best for solving a 3x3 Rubik's Cube.<br>⚡ Fun fact: I also believe that the elegant proof of a mathematical theorem and a perfectly structured piece of code share the same kind of beauty.
