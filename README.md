@@ -25,6 +25,6 @@ I passionate about building elegant solutions to complex problems. I thrive at t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunlong-Prak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bunlong-Prak)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bunlong-Prak&layout=compact&hide_title=true&langs_count=6&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=Bunlong-Prak&layout=compact&hide_title=true&langs_count=6&theme=ambient_gradient)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
