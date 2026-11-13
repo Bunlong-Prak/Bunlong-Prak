@@ -3,7 +3,7 @@
 Email Me 👉 ✉️ **prakbunlong53@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-I passionate about building elegant solutions to complex problems. I thrive at the intersection of logic and creativity and I like random things.<br>The existential dread in Kafka and Dostoevsky.<br>Why OK Computer is a perfect album.<br>The absurd beauty of Albert Camus's philosophy.<br>My personal best for solving a 3x3 Rubik's Cube.<br>⚡ Fun fact: I also believe that the elegant proof of a mathematical theorem and a perfectly structured piece of code share the same kind of beauty.
+i hope to be half a man St Augustine was <br> i read Dostoevsky <br>Radiohead OK Computer is a perfect<br>My personal best for solving a 3x3 Rubik's Cube is like 30s<br>⚡
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bun_long_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@bunlongprak2643) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakbunlong53@gmail.com) 
