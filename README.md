@@ -3,8 +3,9 @@
 Email Me 👉 ✉️ **prakbunlong53@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-i hope to be half a man St Augustine was <br> i read Dostoevsky <br>Radiohead OK Computer is a perfect<br>My PR for solving a 3x3 Rubik's Cube is like 30s⚡
-  ![](https://komarev.com/ghpvc/?username=your-github-Bunlong-Prak&abbreviated=true)
+i hope to be half a man St Augustine was <br> i read Dostoevsky <br>Radiohead OK Computer is a perfect<br>My PR for solving a 3x3 Rubik's Cube is like 30s⚡<br>
+![](https://komarev.com/ghpvc/?username=your-github-Bunlong-Prak&color=dc143c)
+![](https://img.shields.io/badge/Profile%20Views-23K-dc143c)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bun_long_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@bunlongprak2643) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakbunlong53@gmail.com) 
 
